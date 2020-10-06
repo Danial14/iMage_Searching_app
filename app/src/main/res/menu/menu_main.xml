@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.noman_000.flickr_app.MainActivity">
+    <item
+        android:id="@+id/Search_photo"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/search_photo"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!--property android:colorBackgroundFloating is used to change background color of CardView
+            in API 23 and above and before API 23 cardBackgroundColor is used to change background
+            color of CardView
+        -->
+
+        <item name="android:colorBackgroundFloating">@color/primary</item>
+    </style>
+</resources>
